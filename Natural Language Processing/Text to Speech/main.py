@@ -5,8 +5,8 @@ Created on Sun May 12 10:59:14 2024
 @author: Text to speech
 """
 # authenticate
-api_key="rdcHNkNEt_DfTIok6R7cv54mn5-yuhSQ42IAiLtZ-8wW"
-url="https://api.au-syd.text-to-speech.watson.cloud.ibm.com/instances/5bf6bed1-0636-48c7-95e4-a45c87fba1c2"
+api_key="your ıbm key"
+url="your ibm cloud url"
 
 
 from ibm_watson import TextToSpeechV1
