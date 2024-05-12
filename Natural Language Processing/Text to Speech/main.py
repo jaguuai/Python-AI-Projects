@@ -5,7 +5,7 @@ Created on Sun May 12 10:59:14 2024
 @author: Text to speech
 """
 # authenticate
-api_key="your ıbm key"
+api_key="your ibm key"
 url="your ibm cloud url"
 
 
